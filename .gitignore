@@ -1,0 +1,9 @@
+/vendor/
+
+/uploads/
+
+.env
+
+*.log
+
+database_backup.sql
